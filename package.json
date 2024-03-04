@@ -1,6 +1,6 @@
 {
-    "name": "edge",
-    "description": "A Ghost theme",
+    "name": "edge-modified-v1",
+    "description": "A Ghost theme (plus some small changes)",
     "version": "1.0.0",
     "private": true,
     "engines": {

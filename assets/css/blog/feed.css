@@ -12,7 +12,7 @@
 
 .post-feed .grid-item {
     position: absolute;
-    width: 330px;
+    width: calc(100% / 3);
 }
 
 .post-feed .post {

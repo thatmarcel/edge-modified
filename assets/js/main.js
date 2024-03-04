@@ -42,7 +42,7 @@ function feed() {
     pswp(
         '.post-feed',
         '.post',
-        '.post-lightbox',
+        '.post-link',
         '.post-caption',
         false
     );
